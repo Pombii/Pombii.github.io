@@ -72,7 +72,7 @@ body{
     background-position: center;
     color: var(--color-light);
     height: 30rem;
-    
+    overflow: hidden;
 }
 
 .aboutMe h1{
